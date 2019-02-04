@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications_featured"
+  url = "#publications"
   weight = 2
 
 [[main]]
-  name = "Mentoring"
-  url = "#mentoring"
+  name = "Mentorship"
+  url = "#mentorship"
   weight = 3
 
 #[[main]]
