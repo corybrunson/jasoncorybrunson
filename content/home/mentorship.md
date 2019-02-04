@@ -21,8 +21,6 @@ weight = 30
 
 <span style="color:gray">
 Lauren Nicole Geiser, Beverly Anne Setzer, Jason Cory Brunson, Reinhard Laubenbacher
-<br>
-Summer 2017
 </span>
 
 I mentored two undergraduate students in the NSF-sponsored summer REU ["Data and Models in the Biosciences"](https://health.uconn.edu/quantitative-medicine/biomath/). We conducted exploratory and predictive analyses of the [MIMIC-III](https://mimic.physionet.org/) critical care database toward three aims: a triage model of myocardial infarction (MI) patients, a risk assessment model for MI patients, and a time series model of MI occurrence.
@@ -33,8 +31,6 @@ I mentored two undergraduate students in the NSF-sponsored summer REU ["Data and
 
 <span style="color:gray">
 Jason Cory Brunson, Steve Fassino, Antonio McInnes, Monisha Narayan, Brianna Richardson, Christopher Franck, Patrick Ion, Reinhard Laubenbacher
-<br>
-Summer 2010
 </span>
 
 I mentored four undergraduate students in the NSF-sponsored summer REU ["Modeling and Simulation in Systems Biology"](https://health.uconn.edu/quantitative-medicine/biomath2017/). We used statistical and network analysis to characterize coauthorship among mathematicians, based on a bibliographic data set from _Mathematical Reviews_ provided by the American Mathematical Society.
@@ -48,8 +44,6 @@ I mentored four undergraduate students in the NSF-sponsored summer REU ["Modelin
 
 <span style="color:gray">
 Jason Cory Brunson, Emily Paul, Reinhard Laubenbacher
-<br>
-Summer 2018
 </span>
 
 I mentored a student through the Achieve internship program at Avon High School. We wrote and documented code to organize and visualize the output of principal components analysis in a pipe-able workflow using tidy data and grammar of graphics principles.
@@ -60,8 +54,6 @@ I mentored a student through the Achieve internship program at Avon High School.
 
 <span style="color:gray">
 Jason Cory Brunson, Reed Freling, Reinhard Laubenbacher
-<br>
-Summer 2016
 </span>
 
 I mentored a student through the Achieve internship program at Avon High School. We implemented techniques from formal concept analysis and used them to examine the co-occurrence of chronic diseases in the U.S. population, as recorded in the [National Ambulatory Medical Care Survey](https://www.cdc.gov/nchs/ahcd/index.htm).
