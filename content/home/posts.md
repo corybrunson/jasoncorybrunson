@@ -2,15 +2,15 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 widget = "posts"  # Do not modify this line!
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
-date = 2016-04-20T00:00:00
+active = false  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
+date = 2018-02-04
 
 title = "Recent Posts"
 subtitle = ""
 
 # Number of recent posts to list.
-count = 5
+count = 6
 
 # List format.
 #   0 = Simple
@@ -23,4 +23,3 @@ list_format = 2
 filter_tag = ""
 filter_category = ""
 +++
-

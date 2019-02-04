@@ -3,13 +3,13 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-02-04
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 25
 
 # Number of publications to list.
 count = 10
@@ -36,4 +36,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
-
