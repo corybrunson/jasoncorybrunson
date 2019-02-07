@@ -1,5 +1,5 @@
 +++
-title = "Applications of Network Analysis to Routinely Collected Health Care Data a Systematic Review"
+title = "Applications of Network Analysis to Routinely Collected Health Care Data: A Systematic Review"
 date = 2018-02-01
 draft = false
 

@@ -1,37 +1,22 @@
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
-# Color theme.
-#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "coffee"
-# Enable users to switch between day and night mode?
+color_theme = "coffee" # "ocean"
 day_night = true
-
-# Font style.
-#   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "classic" # "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
-
+description = "Jason Cory Brunson"
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
-
-# Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "cornelioid"
-
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo = ""
 
-# Enable global source code highlighting? true/false
-# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
 # highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
-
-# Enable global LaTeX math rendering?
-#   If false, you can enable it locally on a per page basis.
+highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 math = true
 
 # Privacy pack

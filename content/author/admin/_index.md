@@ -21,7 +21,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "{Geometric ∩ Network ∩ Topological} Data Analysis",
-  "Healthcare {Informatics ∩ Outcomes Research}"
+  "Healthcare {Informatics ∩ Outcomes} Research"
 ]
 
 # List qualifications (such as academic degrees)

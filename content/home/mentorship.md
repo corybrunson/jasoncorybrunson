@@ -8,7 +8,7 @@ date = 2019-02-04
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Mentorship"
-subtitle = ""
+subtitle = "Experiences supervising student research"
 
 # Order that this section will appear in.
 weight = 30
